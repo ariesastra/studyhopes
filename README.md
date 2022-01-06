@@ -31,7 +31,7 @@ Save the access token for next API call and mark user as logged in.
 
 **API Endpoints for this page:**
 
-`POST ${http://localhost:3000/api/login}`
+`POST http://localhost:3000/api/login`
 
 ### 3. Registration Page
 
@@ -53,9 +53,9 @@ Save the access token for next API call and mark user as logged in.
 
 **API Endpoints for this page:**
 
-```GET ${http://localhost:3000/api/countries}```
+```GET http://localhost:3000/api/countries```
 
-```POST ${http://localhost:3000/api/register}```
+```POST http://localhost:3000/api/register```
 
 
 ### 4. Course Application Page
@@ -90,13 +90,13 @@ When form is submitted, send the data to the API.
 
 **API Endpoints for this page:**
 
-```GET ${http://localhost:3000/api/profile}```
+```GET http://localhost:3000/api/profile```
 
-```GET ${http://localhost:3000/api/schools}```
+```GET http://localhost:3000/api/schools```
 
-```GET ${http://localhost:3000/api/studies}```
+```GET http://localhost:3000/api/studies```
 
-```POST ${http://localhost:3000/api/apply}```
+```POST http://localhost:3000/api/apply```
 
 ### 5. Logout
 
