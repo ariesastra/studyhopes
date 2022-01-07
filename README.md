@@ -19,7 +19,7 @@ You will have 2 days to complete the assignment. Please clone this repository. O
 
 ### 1. Homepage
 
-Homepage should be consist of "Solusi Cerdas Bayar Kuliah dan Kursus" text. And also Login and Register button.
+Homepage should be consist of "School Online Submission" text. And also Login and Register button.
 
 
 ### 2. Login Page
